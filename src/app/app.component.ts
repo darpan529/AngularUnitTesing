@@ -37,4 +37,9 @@ export class AppComponent {
 
     }
 
+    feature1()
+    {
+      console.log('feature1');
+    }
+
 }
